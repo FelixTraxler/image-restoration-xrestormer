@@ -44,7 +44,7 @@ path:
 # inference output
 val:
   save_img: true
-  suffix: XRestormer
+  suffix: X-Restormer
   pbar: true
   metrics: {}                   # <- disables PSNR/SSIM metrics
 
